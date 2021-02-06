@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `Naofumi Fujii`,
-      summary: `who lives and works in Tokyo building useful things.`,
+      summary: `lives in Tokyo.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
